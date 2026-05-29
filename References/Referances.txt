@@ -1,0 +1,6 @@
+Reference
+
+Troelsen, A. and Japikse, P. (2021) Pro C# 9 with .NET 5: foundational principles and practices in programming. 10th edn. New York: Apress.
+You tube: C# WPF tutorial by Kampa Plays
+You tube: Memory management in .Net C# by programming with Chris
+https://www.c-sharpcorner.com/UploadFile/bunker17/simple-genetic-algorithm-on-C-Sharp/
